@@ -1,0 +1,4 @@
+# Install in addition to requirements.txt when working with BigQuery/dbt.
+dbt-bigquery>=1.10.5,<2.0
+google-cloud-bigquery>=3.20
+pm4py>=2.7
