@@ -1,0 +1,76 @@
+version: 2
+
+models:
+  - name: stg_careflow__events
+    description: Cleanly typed event rows sourced from the raw event table.
+    columns:
+      - name: case_id
+        data_tests: [not_null]
+      - name: activity_name
+        data_tests: [not_null]
+      - name: event_timestamp
+        data_tests: [not_null]
+      - name: source_event_fingerprint
+        data_tests: [not_null]
+
+  - name: int_careflow__ordered_events
+    description: Event rows with within-case order.
+    columns:
+      - name: case_id
+        data_tests: [not_null]
+      - name: event_order
+        data_tests: [not_null]
+
+  - name: int_careflow__event_transitions
+    description: Event-level predecessor/successor information and time until the next observed event.
+    columns:
+      - name: case_id
+        data_tests: [not_null]
+      - name: elapsed_to_next_minutes
+        description: Inter-event elapsed time; not equivalent to waiting time without explicit queue/service timestamps.
+
+  - name: fct_patient_cases
+    description: Case-level summary metrics and reconstructed traces.
+    columns:
+      - name: case_id
+        data_tests: [not_null, unique]
+      - name: case_trace
+        data_tests: [not_null]
+      - name: case_throughput_minutes
+        data_tests: [not_null]
+      - name: returned_to_triage_after_xray
+        data_tests: [not_null]
+
+  - name: fct_transition_bottlenecks
+    description: Grouped elapsed-time metrics for directly-follows transitions.
+    columns:
+      - name: transition
+        data_tests: [not_null, unique]
+      - name: transition_count
+        data_tests: [not_null]
+
+  - name: fct_triage_loopbacks
+    description: Specific case-level measure for the X-Ray to Triage loop.
+    columns:
+      - name: case_id
+        data_tests: [not_null, unique]
+      - name: returned_to_triage_after_xray
+        data_tests: [not_null]
+
+  - name: fct_process_variants
+    description: Frequency and throughput summary for each unique activity trace.
+    columns:
+      - name: case_trace
+        data_tests: [not_null, unique]
+      - name: case_count
+        data_tests: [not_null]
+      - name: share_percent
+        data_tests: [not_null]
+
+  - name: fct_conformance_results
+    description: Exact-trace comparison against a documented reference pathway.
+    columns:
+      - name: case_id
+        data_tests: [not_null, unique]
+      - name: conforms_to_baseline
+        data_tests: [not_null]

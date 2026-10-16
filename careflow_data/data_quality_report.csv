@@ -1,0 +1,7 @@
+Check,Passed,Details
+Required process-mining columns exist,True,All required columns present
+No null Case_ID / Activity_Name / Timestamp values,True,Rows with missing required values: 0
+No exact duplicate event records,True,Duplicate rows: 0
+All timestamps are valid datetimes,True,Unparseable timestamps: 0
+Timestamps strictly increase within each case,True,Non-increasing timestamp steps: 0
+Exactly one Registration and one Discharge per case,True,Cases with registration count issue: 0; discharge count issue: 0

@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: careflow_raw
+    description: Raw event data uploaded from the authorized EHR export or the synthetic demo CSV.
+    database: "{{ target.project }}"
+    schema: "{{ var('careflow_source_dataset', 'careflow_raw') }}"
+    tables:
+      - name: raw_event_log
+        description: One record per observed patient activity event. Source rows must be authorized for analytics use.
+        columns:
+          - name: Case_ID
+            description: Anonymous visit/case identifier.
+            data_tests: [not_null]
+          - name: Activity_Name
+            description: Name of the clinical or operational activity.
+            data_tests: [not_null]
+          - name: Timestamp
+            description: Time when the event was recorded. The demo loads this as a BigQuery DATETIME.
+            data_tests: [not_null]

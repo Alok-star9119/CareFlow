@@ -1,0 +1,21 @@
+{
+  "file": "careflow_data/clean_event_log.csv",
+  "row_count": 3900,
+  "case_count": 500,
+  "missing_required_columns": [],
+  "null_required_values": {
+    "Case_ID": 0,
+    "Activity_Name": 0,
+    "Timestamp": 0
+  },
+  "invalid_timestamps": 0,
+  "duplicate_event_keys": 0,
+  "non_monotonic_cases": [],
+  "missing_registration_cases": [],
+  "missing_discharge_cases": [],
+  "xray_to_triage_cases": 200,
+  "xray_to_triage_rate_percent": 40.0,
+  "passed": true,
+  "equal_timestamp_event_rows": 0,
+  "non_positive_timestamp_step_rows": 0
+}

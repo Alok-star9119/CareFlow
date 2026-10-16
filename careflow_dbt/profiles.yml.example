@@ -1,0 +1,16 @@
+# Copy this to ~/.dbt/profiles.yml and replace the values as needed.
+# Authenticate first with `gcloud auth application-default login`, or configure
+# a service account with least-privilege permissions and GOOGLE_APPLICATION_CREDENTIALS.
+careflow:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: "{{ env_var('GCP_PROJECT_ID') }}"
+      dataset: "{{ env_var('CARE_FLOW_TARGET_DATASET', 'careflow_analytics') }}"
+      location: "{{ env_var('BIGQUERY_LOCATION', 'US') }}"
+      threads: 4
+      timeout_seconds: 300
+      priority: interactive
+      retries: 1

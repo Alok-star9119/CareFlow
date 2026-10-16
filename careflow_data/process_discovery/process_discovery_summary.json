@@ -1,0 +1,9 @@
+{
+  "case_count": 500,
+  "event_count": 3900,
+  "distinct_activities": 8,
+  "process_variant_count": 2,
+  "xray_to_triage_cases": 200,
+  "xray_to_triage_rate_percent": 40.0,
+  "exact_baseline_conformance_percent": 60.0
+}

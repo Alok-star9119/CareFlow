@@ -1,0 +1,10 @@
+activity_name,next_activity,frequency
+Physician Assessment,X-Ray,500
+Triage,Physician Assessment,500
+Physician Reassessment,Treatment,500
+Registration,Triage,500
+Treatment,Discharge,500
+X-Ray,Physician Reassessment,300
+Paperwork Completion,Physician Reassessment,200
+Triage,Paperwork Completion,200
+X-Ray,Triage,200
