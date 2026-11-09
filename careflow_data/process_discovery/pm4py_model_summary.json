@@ -1,0 +1,7 @@
+{
+  "places": 12,
+  "transitions": 11,
+  "arcs": 26,
+  "pnml_file": "pm4py_inductive_process_model.pnml",
+  "note": "Inductively discovered model from the supplied event log; not a clinically approved care pathway."
+}

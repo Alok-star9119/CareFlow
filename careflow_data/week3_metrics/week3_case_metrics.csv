@@ -1,0 +1,501 @@
+Case_ID,First_Activity,Last_Activity,Event_Count,Case_Duration_Minutes,XRay_To_Triage_Loopback,Case_Trace
+CF-000001,Registration,Discharge,7,96.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000002,Registration,Discharge,7,147.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000003,Registration,Discharge,9,198.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000004,Registration,Discharge,7,121.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000005,Registration,Discharge,7,129.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000006,Registration,Discharge,7,142.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000007,Registration,Discharge,7,134.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000008,Registration,Discharge,7,125.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000009,Registration,Discharge,7,63.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000010,Registration,Discharge,7,129.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000011,Registration,Discharge,9,160.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000012,Registration,Discharge,7,177.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000013,Registration,Discharge,7,130.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000014,Registration,Discharge,9,152.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000015,Registration,Discharge,7,156.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000016,Registration,Discharge,9,193.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000017,Registration,Discharge,7,147.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000018,Registration,Discharge,7,134.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000019,Registration,Discharge,7,144.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000020,Registration,Discharge,7,103.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000021,Registration,Discharge,7,118.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000022,Registration,Discharge,9,202.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000023,Registration,Discharge,7,128.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000024,Registration,Discharge,9,199.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000025,Registration,Discharge,7,151.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000026,Registration,Discharge,7,103.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000027,Registration,Discharge,9,141.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000028,Registration,Discharge,7,124.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000029,Registration,Discharge,9,199.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000030,Registration,Discharge,9,171.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000031,Registration,Discharge,9,198.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000032,Registration,Discharge,7,101.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000033,Registration,Discharge,7,123.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000034,Registration,Discharge,9,192.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000035,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000036,Registration,Discharge,7,146.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000037,Registration,Discharge,7,93.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000038,Registration,Discharge,9,181.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000039,Registration,Discharge,7,130.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000040,Registration,Discharge,9,213.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000041,Registration,Discharge,9,169.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000042,Registration,Discharge,7,123.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000043,Registration,Discharge,9,182.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000044,Registration,Discharge,9,201.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000045,Registration,Discharge,7,104.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000046,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000047,Registration,Discharge,7,183.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000048,Registration,Discharge,7,155.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000049,Registration,Discharge,9,189.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000050,Registration,Discharge,9,177.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000051,Registration,Discharge,7,157.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000052,Registration,Discharge,7,104.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000053,Registration,Discharge,7,136.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000054,Registration,Discharge,7,120.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000055,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000056,Registration,Discharge,9,133.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000057,Registration,Discharge,9,197.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000058,Registration,Discharge,9,167.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000059,Registration,Discharge,9,233.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000060,Registration,Discharge,7,131.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000061,Registration,Discharge,7,92.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000062,Registration,Discharge,9,143.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000063,Registration,Discharge,9,186.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000064,Registration,Discharge,7,123.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000065,Registration,Discharge,7,80.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000066,Registration,Discharge,7,124.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000067,Registration,Discharge,7,153.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000068,Registration,Discharge,7,134.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000069,Registration,Discharge,9,157.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000070,Registration,Discharge,7,99.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000071,Registration,Discharge,9,211.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000072,Registration,Discharge,7,123.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000073,Registration,Discharge,7,140.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000074,Registration,Discharge,9,165.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000075,Registration,Discharge,7,129.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000076,Registration,Discharge,9,225.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000077,Registration,Discharge,7,148.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000078,Registration,Discharge,9,202.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000079,Registration,Discharge,9,149.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000080,Registration,Discharge,7,124.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000081,Registration,Discharge,9,161.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000082,Registration,Discharge,7,179.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000083,Registration,Discharge,7,122.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000084,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000085,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000086,Registration,Discharge,9,193.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000087,Registration,Discharge,7,160.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000088,Registration,Discharge,7,121.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000089,Registration,Discharge,7,100.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000090,Registration,Discharge,7,144.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000091,Registration,Discharge,7,122.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000092,Registration,Discharge,7,138.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000093,Registration,Discharge,7,113.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000094,Registration,Discharge,9,188.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000095,Registration,Discharge,9,233.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000096,Registration,Discharge,9,197.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000097,Registration,Discharge,7,111.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000098,Registration,Discharge,7,123.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000099,Registration,Discharge,7,154.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000100,Registration,Discharge,7,133.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000101,Registration,Discharge,7,146.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000102,Registration,Discharge,7,164.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000103,Registration,Discharge,9,167.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000104,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000105,Registration,Discharge,9,170.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000106,Registration,Discharge,7,131.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000107,Registration,Discharge,7,133.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000108,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000109,Registration,Discharge,7,151.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000110,Registration,Discharge,7,142.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000111,Registration,Discharge,7,84.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000112,Registration,Discharge,7,141.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000113,Registration,Discharge,7,141.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000114,Registration,Discharge,9,153.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000115,Registration,Discharge,9,197.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000116,Registration,Discharge,7,138.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000117,Registration,Discharge,9,179.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000118,Registration,Discharge,7,112.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000119,Registration,Discharge,7,120.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000120,Registration,Discharge,9,138.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000121,Registration,Discharge,7,112.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000122,Registration,Discharge,9,183.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000123,Registration,Discharge,9,202.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000124,Registration,Discharge,7,106.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000125,Registration,Discharge,9,203.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000126,Registration,Discharge,7,124.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000127,Registration,Discharge,7,132.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000128,Registration,Discharge,9,205.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000129,Registration,Discharge,9,171.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000130,Registration,Discharge,7,124.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000131,Registration,Discharge,7,170.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000132,Registration,Discharge,9,198.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000133,Registration,Discharge,9,182.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000134,Registration,Discharge,9,140.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000135,Registration,Discharge,7,144.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000136,Registration,Discharge,7,137.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000137,Registration,Discharge,9,180.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000138,Registration,Discharge,7,131.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000139,Registration,Discharge,7,151.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000140,Registration,Discharge,7,145.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000141,Registration,Discharge,7,106.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000142,Registration,Discharge,7,120.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000143,Registration,Discharge,7,133.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000144,Registration,Discharge,7,147.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000145,Registration,Discharge,9,182.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000146,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000147,Registration,Discharge,9,178.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000148,Registration,Discharge,9,195.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000149,Registration,Discharge,7,161.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000150,Registration,Discharge,9,222.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000151,Registration,Discharge,9,168.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000152,Registration,Discharge,7,140.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000153,Registration,Discharge,9,147.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000154,Registration,Discharge,7,138.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000155,Registration,Discharge,9,152.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000156,Registration,Discharge,7,174.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000157,Registration,Discharge,9,175.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000158,Registration,Discharge,7,139.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000159,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000160,Registration,Discharge,7,113.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000161,Registration,Discharge,9,200.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000162,Registration,Discharge,7,132.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000163,Registration,Discharge,9,171.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000164,Registration,Discharge,9,175.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000165,Registration,Discharge,7,148.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000166,Registration,Discharge,9,181.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000167,Registration,Discharge,9,161.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000168,Registration,Discharge,7,140.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000169,Registration,Discharge,7,152.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000170,Registration,Discharge,9,188.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000171,Registration,Discharge,9,202.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000172,Registration,Discharge,7,166.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000173,Registration,Discharge,9,220.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000174,Registration,Discharge,9,192.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000175,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000176,Registration,Discharge,7,139.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000177,Registration,Discharge,9,212.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000178,Registration,Discharge,7,148.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000179,Registration,Discharge,9,131.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000180,Registration,Discharge,9,211.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000181,Registration,Discharge,7,114.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000182,Registration,Discharge,9,186.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000183,Registration,Discharge,7,141.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000184,Registration,Discharge,7,109.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000185,Registration,Discharge,7,154.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000186,Registration,Discharge,9,193.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000187,Registration,Discharge,7,95.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000188,Registration,Discharge,7,125.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000189,Registration,Discharge,9,217.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000190,Registration,Discharge,9,244.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000191,Registration,Discharge,7,159.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000192,Registration,Discharge,7,132.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000193,Registration,Discharge,9,167.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000194,Registration,Discharge,7,101.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000195,Registration,Discharge,9,183.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000196,Registration,Discharge,9,187.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000197,Registration,Discharge,7,93.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000198,Registration,Discharge,9,203.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000199,Registration,Discharge,9,175.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000200,Registration,Discharge,9,222.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000201,Registration,Discharge,7,115.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000202,Registration,Discharge,7,132.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000203,Registration,Discharge,7,147.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000204,Registration,Discharge,7,121.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000205,Registration,Discharge,7,130.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000206,Registration,Discharge,7,154.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000207,Registration,Discharge,7,95.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000208,Registration,Discharge,7,101.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000209,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000210,Registration,Discharge,9,191.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000211,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000212,Registration,Discharge,7,141.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000213,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000214,Registration,Discharge,9,194.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000215,Registration,Discharge,9,149.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000216,Registration,Discharge,7,142.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000217,Registration,Discharge,9,153.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000218,Registration,Discharge,7,144.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000219,Registration,Discharge,7,99.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000220,Registration,Discharge,9,132.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000221,Registration,Discharge,7,162.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000222,Registration,Discharge,7,156.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000223,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000224,Registration,Discharge,7,93.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000225,Registration,Discharge,7,134.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000226,Registration,Discharge,7,110.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000227,Registration,Discharge,9,221.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000228,Registration,Discharge,7,118.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000229,Registration,Discharge,7,143.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000230,Registration,Discharge,9,199.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000231,Registration,Discharge,9,183.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000232,Registration,Discharge,9,150.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000233,Registration,Discharge,7,107.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000234,Registration,Discharge,9,152.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000235,Registration,Discharge,7,154.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000236,Registration,Discharge,7,115.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000237,Registration,Discharge,9,213.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000238,Registration,Discharge,7,113.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000239,Registration,Discharge,9,180.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000240,Registration,Discharge,9,184.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000241,Registration,Discharge,9,192.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000242,Registration,Discharge,7,122.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000243,Registration,Discharge,9,178.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000244,Registration,Discharge,9,172.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000245,Registration,Discharge,7,113.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000246,Registration,Discharge,9,208.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000247,Registration,Discharge,9,189.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000248,Registration,Discharge,7,110.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000249,Registration,Discharge,9,151.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000250,Registration,Discharge,7,120.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000251,Registration,Discharge,7,168.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000252,Registration,Discharge,7,152.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000253,Registration,Discharge,7,109.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000254,Registration,Discharge,7,147.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000255,Registration,Discharge,9,205.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000256,Registration,Discharge,9,154.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000257,Registration,Discharge,7,155.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000258,Registration,Discharge,9,198.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000259,Registration,Discharge,7,141.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000260,Registration,Discharge,9,175.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000261,Registration,Discharge,7,118.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000262,Registration,Discharge,7,115.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000263,Registration,Discharge,9,189.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000264,Registration,Discharge,9,150.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000265,Registration,Discharge,7,162.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000266,Registration,Discharge,7,140.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000267,Registration,Discharge,9,182.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000268,Registration,Discharge,9,180.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000269,Registration,Discharge,7,142.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000270,Registration,Discharge,9,208.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000271,Registration,Discharge,9,145.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000272,Registration,Discharge,9,177.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000273,Registration,Discharge,9,208.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000274,Registration,Discharge,7,143.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000275,Registration,Discharge,7,159.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000276,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000277,Registration,Discharge,9,199.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000278,Registration,Discharge,7,162.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000279,Registration,Discharge,7,162.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000280,Registration,Discharge,9,158.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000281,Registration,Discharge,7,121.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000282,Registration,Discharge,7,147.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000283,Registration,Discharge,9,184.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000284,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000285,Registration,Discharge,7,150.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000286,Registration,Discharge,7,131.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000287,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000288,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000289,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000290,Registration,Discharge,9,166.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000291,Registration,Discharge,7,156.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000292,Registration,Discharge,7,125.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000293,Registration,Discharge,7,174.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000294,Registration,Discharge,7,107.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000295,Registration,Discharge,7,139.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000296,Registration,Discharge,9,221.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000297,Registration,Discharge,7,96.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000298,Registration,Discharge,9,155.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000299,Registration,Discharge,9,206.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000300,Registration,Discharge,9,194.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000301,Registration,Discharge,9,165.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000302,Registration,Discharge,9,211.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000303,Registration,Discharge,7,107.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000304,Registration,Discharge,7,118.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000305,Registration,Discharge,9,138.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000306,Registration,Discharge,7,94.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000307,Registration,Discharge,9,198.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000308,Registration,Discharge,7,143.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000309,Registration,Discharge,7,114.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000310,Registration,Discharge,7,118.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000311,Registration,Discharge,9,206.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000312,Registration,Discharge,7,106.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000313,Registration,Discharge,7,144.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000314,Registration,Discharge,7,101.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000315,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000316,Registration,Discharge,9,193.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000317,Registration,Discharge,7,115.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000318,Registration,Discharge,9,187.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000319,Registration,Discharge,7,131.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000320,Registration,Discharge,9,179.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000321,Registration,Discharge,7,119.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000322,Registration,Discharge,9,171.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000323,Registration,Discharge,9,191.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000324,Registration,Discharge,7,168.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000325,Registration,Discharge,9,184.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000326,Registration,Discharge,7,125.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000327,Registration,Discharge,7,151.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000328,Registration,Discharge,9,186.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000329,Registration,Discharge,7,176.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000330,Registration,Discharge,7,101.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000331,Registration,Discharge,9,194.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000332,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000333,Registration,Discharge,9,153.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000334,Registration,Discharge,9,176.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000335,Registration,Discharge,7,144.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000336,Registration,Discharge,9,126.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000337,Registration,Discharge,7,162.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000338,Registration,Discharge,9,212.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000339,Registration,Discharge,7,111.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000340,Registration,Discharge,9,162.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000341,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000342,Registration,Discharge,7,110.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000343,Registration,Discharge,9,167.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000344,Registration,Discharge,7,157.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000345,Registration,Discharge,7,92.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000346,Registration,Discharge,9,181.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000347,Registration,Discharge,7,153.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000348,Registration,Discharge,7,89.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000349,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000350,Registration,Discharge,7,157.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000351,Registration,Discharge,7,86.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000352,Registration,Discharge,7,117.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000353,Registration,Discharge,9,194.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000354,Registration,Discharge,7,90.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000355,Registration,Discharge,9,130.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000356,Registration,Discharge,7,159.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000357,Registration,Discharge,7,91.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000358,Registration,Discharge,7,117.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000359,Registration,Discharge,9,149.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000360,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000361,Registration,Discharge,9,192.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000362,Registration,Discharge,9,200.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000363,Registration,Discharge,9,204.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000364,Registration,Discharge,9,163.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000365,Registration,Discharge,9,169.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000366,Registration,Discharge,9,199.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000367,Registration,Discharge,7,149.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000368,Registration,Discharge,7,90.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000369,Registration,Discharge,9,178.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000370,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000371,Registration,Discharge,7,132.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000372,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000373,Registration,Discharge,7,164.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000374,Registration,Discharge,7,150.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000375,Registration,Discharge,7,146.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000376,Registration,Discharge,7,132.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000377,Registration,Discharge,7,161.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000378,Registration,Discharge,7,134.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000379,Registration,Discharge,7,115.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000380,Registration,Discharge,9,160.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000381,Registration,Discharge,9,187.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000382,Registration,Discharge,7,129.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000383,Registration,Discharge,7,148.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000384,Registration,Discharge,7,124.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000385,Registration,Discharge,7,129.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000386,Registration,Discharge,9,221.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000387,Registration,Discharge,7,156.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000388,Registration,Discharge,9,147.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000389,Registration,Discharge,7,150.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000390,Registration,Discharge,7,145.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000391,Registration,Discharge,7,134.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000392,Registration,Discharge,7,125.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000393,Registration,Discharge,7,105.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000394,Registration,Discharge,7,82.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000395,Registration,Discharge,7,134.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000396,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000397,Registration,Discharge,7,118.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000398,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000399,Registration,Discharge,9,145.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000400,Registration,Discharge,9,167.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000401,Registration,Discharge,9,260.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000402,Registration,Discharge,7,168.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000403,Registration,Discharge,9,218.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000404,Registration,Discharge,7,103.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000405,Registration,Discharge,7,107.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000406,Registration,Discharge,9,175.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000407,Registration,Discharge,7,147.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000408,Registration,Discharge,9,211.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000409,Registration,Discharge,7,136.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000410,Registration,Discharge,9,168.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000411,Registration,Discharge,7,90.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000412,Registration,Discharge,7,108.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000413,Registration,Discharge,7,155.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000414,Registration,Discharge,7,127.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000415,Registration,Discharge,9,180.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000416,Registration,Discharge,9,195.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000417,Registration,Discharge,9,178.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000418,Registration,Discharge,9,190.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000419,Registration,Discharge,7,129.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000420,Registration,Discharge,9,243.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000421,Registration,Discharge,9,183.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000422,Registration,Discharge,7,153.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000423,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000424,Registration,Discharge,7,133.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000425,Registration,Discharge,7,148.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000426,Registration,Discharge,9,141.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000427,Registration,Discharge,7,123.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000428,Registration,Discharge,7,165.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000429,Registration,Discharge,7,100.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000430,Registration,Discharge,9,153.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000431,Registration,Discharge,7,120.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000432,Registration,Discharge,9,194.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000433,Registration,Discharge,7,99.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000434,Registration,Discharge,9,149.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000435,Registration,Discharge,7,110.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000436,Registration,Discharge,9,214.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000437,Registration,Discharge,7,118.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000438,Registration,Discharge,7,145.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000439,Registration,Discharge,9,208.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000440,Registration,Discharge,9,196.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000441,Registration,Discharge,9,164.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000442,Registration,Discharge,9,168.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000443,Registration,Discharge,7,112.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000444,Registration,Discharge,7,146.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000445,Registration,Discharge,7,148.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000446,Registration,Discharge,9,213.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000447,Registration,Discharge,9,214.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000448,Registration,Discharge,7,114.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000449,Registration,Discharge,7,117.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000450,Registration,Discharge,9,172.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000451,Registration,Discharge,7,113.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000452,Registration,Discharge,9,195.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000453,Registration,Discharge,9,220.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000454,Registration,Discharge,9,140.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000455,Registration,Discharge,7,103.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000456,Registration,Discharge,7,126.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000457,Registration,Discharge,7,107.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000458,Registration,Discharge,7,81.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000459,Registration,Discharge,7,121.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000460,Registration,Discharge,9,212.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000461,Registration,Discharge,7,119.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000462,Registration,Discharge,9,187.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000463,Registration,Discharge,9,230.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000464,Registration,Discharge,7,111.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000465,Registration,Discharge,7,125.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000466,Registration,Discharge,9,151.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000467,Registration,Discharge,7,130.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000468,Registration,Discharge,7,149.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000469,Registration,Discharge,7,169.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000470,Registration,Discharge,7,120.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000471,Registration,Discharge,7,101.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000472,Registration,Discharge,7,105.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000473,Registration,Discharge,9,187.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000474,Registration,Discharge,7,135.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000475,Registration,Discharge,9,150.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000476,Registration,Discharge,9,169.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000477,Registration,Discharge,9,176.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000478,Registration,Discharge,7,136.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000479,Registration,Discharge,7,142.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000480,Registration,Discharge,9,144.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000481,Registration,Discharge,9,147.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000482,Registration,Discharge,7,154.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000483,Registration,Discharge,9,158.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000484,Registration,Discharge,7,161.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000485,Registration,Discharge,9,177.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000486,Registration,Discharge,7,145.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000487,Registration,Discharge,9,206.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000488,Registration,Discharge,9,194.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000489,Registration,Discharge,7,129.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000490,Registration,Discharge,7,106.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000491,Registration,Discharge,9,167.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000492,Registration,Discharge,9,220.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000493,Registration,Discharge,7,123.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000494,Registration,Discharge,9,164.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000495,Registration,Discharge,7,105.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000496,Registration,Discharge,7,119.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000497,Registration,Discharge,9,179.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000498,Registration,Discharge,9,194.0,True,Registration -> Triage -> Physician Assessment -> X-Ray -> Triage -> Paperwork Completion -> Physician Reassessment -> Treatment -> Discharge
+CF-000499,Registration,Discharge,7,156.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge
+CF-000500,Registration,Discharge,7,116.0,False,Registration -> Triage -> Physician Assessment -> X-Ray -> Physician Reassessment -> Treatment -> Discharge

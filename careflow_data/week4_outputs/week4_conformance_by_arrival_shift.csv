@@ -1,0 +1,4 @@
+Arrival_Shift,Patient_Cases,Conforming_Cases,Deviation_Cases,Conformance_Rate_Percent,Deviation_Rate_Percent,Mean_Case_Duration_Minutes
+Afternoon (12:00–17:59),133,77,56,57.89,42.11,152.02
+Morning (06:00–11:59),109,70,39,64.22,35.78,149.94
+Night (18:00–05:59),258,153,105,59.3,40.7,150.36

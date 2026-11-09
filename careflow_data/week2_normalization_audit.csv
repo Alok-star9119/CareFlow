@@ -1,0 +1,6 @@
+Check,Result,Detail
+Required fields present,PASS,"Case_ID, Activity_Name, Timestamp"
+No null required values,PASS,"No null Case_ID, Activity_Name, or Timestamp values"
+No blank IDs or activity names,PASS,All required text fields contain values
+Events sorted within each case,PASS,500 of 500 cases are chronological
+Unique case/event/timestamp keys,PASS,Duplicate exact event keys reviewed

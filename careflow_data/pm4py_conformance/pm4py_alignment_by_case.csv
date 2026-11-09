@@ -1,0 +1,501 @@
+Case_ID,Alignment_Cost,Fitness_vs_Baseline,Fitness_vs_Discovered_Model,Extra_Activities_Not_In_Baseline,Missing_Baseline_Activities,Conforms_To_Baseline
+CF-000001,0,1.0,1.0,,,True
+CF-000002,0,1.0,1.0,,,True
+CF-000003,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000004,0,1.0,1.0,,,True
+CF-000005,0,1.0,1.0,,,True
+CF-000006,0,1.0,1.0,,,True
+CF-000007,0,1.0,1.0,,,True
+CF-000008,0,1.0,1.0,,,True
+CF-000009,0,1.0,1.0,,,True
+CF-000010,0,1.0,1.0,,,True
+CF-000011,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000012,0,1.0,1.0,,,True
+CF-000013,0,1.0,1.0,,,True
+CF-000014,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000015,0,1.0,1.0,,,True
+CF-000016,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000017,0,1.0,1.0,,,True
+CF-000018,0,1.0,1.0,,,True
+CF-000019,0,1.0,1.0,,,True
+CF-000020,0,1.0,1.0,,,True
+CF-000021,0,1.0,1.0,,,True
+CF-000022,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000023,0,1.0,1.0,,,True
+CF-000024,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000025,0,1.0,1.0,,,True
+CF-000026,0,1.0,1.0,,,True
+CF-000027,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000028,0,1.0,1.0,,,True
+CF-000029,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000030,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000031,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000032,0,1.0,1.0,,,True
+CF-000033,0,1.0,1.0,,,True
+CF-000034,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000035,0,1.0,1.0,,,True
+CF-000036,0,1.0,1.0,,,True
+CF-000037,0,1.0,1.0,,,True
+CF-000038,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000039,0,1.0,1.0,,,True
+CF-000040,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000041,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000042,0,1.0,1.0,,,True
+CF-000043,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000044,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000045,0,1.0,1.0,,,True
+CF-000046,0,1.0,1.0,,,True
+CF-000047,0,1.0,1.0,,,True
+CF-000048,0,1.0,1.0,,,True
+CF-000049,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000050,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000051,0,1.0,1.0,,,True
+CF-000052,0,1.0,1.0,,,True
+CF-000053,0,1.0,1.0,,,True
+CF-000054,0,1.0,1.0,,,True
+CF-000055,0,1.0,1.0,,,True
+CF-000056,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000057,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000058,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000059,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000060,0,1.0,1.0,,,True
+CF-000061,0,1.0,1.0,,,True
+CF-000062,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000063,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000064,0,1.0,1.0,,,True
+CF-000065,0,1.0,1.0,,,True
+CF-000066,0,1.0,1.0,,,True
+CF-000067,0,1.0,1.0,,,True
+CF-000068,0,1.0,1.0,,,True
+CF-000069,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000070,0,1.0,1.0,,,True
+CF-000071,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000072,0,1.0,1.0,,,True
+CF-000073,0,1.0,1.0,,,True
+CF-000074,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000075,0,1.0,1.0,,,True
+CF-000076,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000077,0,1.0,1.0,,,True
+CF-000078,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000079,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000080,0,1.0,1.0,,,True
+CF-000081,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000082,0,1.0,1.0,,,True
+CF-000083,0,1.0,1.0,,,True
+CF-000084,0,1.0,1.0,,,True
+CF-000085,0,1.0,1.0,,,True
+CF-000086,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000087,0,1.0,1.0,,,True
+CF-000088,0,1.0,1.0,,,True
+CF-000089,0,1.0,1.0,,,True
+CF-000090,0,1.0,1.0,,,True
+CF-000091,0,1.0,1.0,,,True
+CF-000092,0,1.0,1.0,,,True
+CF-000093,0,1.0,1.0,,,True
+CF-000094,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000095,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000096,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000097,0,1.0,1.0,,,True
+CF-000098,0,1.0,1.0,,,True
+CF-000099,0,1.0,1.0,,,True
+CF-000100,0,1.0,1.0,,,True
+CF-000101,0,1.0,1.0,,,True
+CF-000102,0,1.0,1.0,,,True
+CF-000103,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000104,0,1.0,1.0,,,True
+CF-000105,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000106,0,1.0,1.0,,,True
+CF-000107,0,1.0,1.0,,,True
+CF-000108,0,1.0,1.0,,,True
+CF-000109,0,1.0,1.0,,,True
+CF-000110,0,1.0,1.0,,,True
+CF-000111,0,1.0,1.0,,,True
+CF-000112,0,1.0,1.0,,,True
+CF-000113,0,1.0,1.0,,,True
+CF-000114,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000115,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000116,0,1.0,1.0,,,True
+CF-000117,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000118,0,1.0,1.0,,,True
+CF-000119,0,1.0,1.0,,,True
+CF-000120,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000121,0,1.0,1.0,,,True
+CF-000122,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000123,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000124,0,1.0,1.0,,,True
+CF-000125,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000126,0,1.0,1.0,,,True
+CF-000127,0,1.0,1.0,,,True
+CF-000128,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000129,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000130,0,1.0,1.0,,,True
+CF-000131,0,1.0,1.0,,,True
+CF-000132,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000133,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000134,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000135,0,1.0,1.0,,,True
+CF-000136,0,1.0,1.0,,,True
+CF-000137,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000138,0,1.0,1.0,,,True
+CF-000139,0,1.0,1.0,,,True
+CF-000140,0,1.0,1.0,,,True
+CF-000141,0,1.0,1.0,,,True
+CF-000142,0,1.0,1.0,,,True
+CF-000143,0,1.0,1.0,,,True
+CF-000144,0,1.0,1.0,,,True
+CF-000145,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000146,0,1.0,1.0,,,True
+CF-000147,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000148,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000149,0,1.0,1.0,,,True
+CF-000150,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000151,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000152,0,1.0,1.0,,,True
+CF-000153,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000154,0,1.0,1.0,,,True
+CF-000155,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000156,0,1.0,1.0,,,True
+CF-000157,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000158,0,1.0,1.0,,,True
+CF-000159,0,1.0,1.0,,,True
+CF-000160,0,1.0,1.0,,,True
+CF-000161,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000162,0,1.0,1.0,,,True
+CF-000163,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000164,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000165,0,1.0,1.0,,,True
+CF-000166,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000167,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000168,0,1.0,1.0,,,True
+CF-000169,0,1.0,1.0,,,True
+CF-000170,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000171,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000172,0,1.0,1.0,,,True
+CF-000173,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000174,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000175,0,1.0,1.0,,,True
+CF-000176,0,1.0,1.0,,,True
+CF-000177,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000178,0,1.0,1.0,,,True
+CF-000179,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000180,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000181,0,1.0,1.0,,,True
+CF-000182,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000183,0,1.0,1.0,,,True
+CF-000184,0,1.0,1.0,,,True
+CF-000185,0,1.0,1.0,,,True
+CF-000186,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000187,0,1.0,1.0,,,True
+CF-000188,0,1.0,1.0,,,True
+CF-000189,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000190,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000191,0,1.0,1.0,,,True
+CF-000192,0,1.0,1.0,,,True
+CF-000193,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000194,0,1.0,1.0,,,True
+CF-000195,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000196,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000197,0,1.0,1.0,,,True
+CF-000198,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000199,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000200,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000201,0,1.0,1.0,,,True
+CF-000202,0,1.0,1.0,,,True
+CF-000203,0,1.0,1.0,,,True
+CF-000204,0,1.0,1.0,,,True
+CF-000205,0,1.0,1.0,,,True
+CF-000206,0,1.0,1.0,,,True
+CF-000207,0,1.0,1.0,,,True
+CF-000208,0,1.0,1.0,,,True
+CF-000209,0,1.0,1.0,,,True
+CF-000210,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000211,0,1.0,1.0,,,True
+CF-000212,0,1.0,1.0,,,True
+CF-000213,0,1.0,1.0,,,True
+CF-000214,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000215,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000216,0,1.0,1.0,,,True
+CF-000217,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000218,0,1.0,1.0,,,True
+CF-000219,0,1.0,1.0,,,True
+CF-000220,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000221,0,1.0,1.0,,,True
+CF-000222,0,1.0,1.0,,,True
+CF-000223,0,1.0,1.0,,,True
+CF-000224,0,1.0,1.0,,,True
+CF-000225,0,1.0,1.0,,,True
+CF-000226,0,1.0,1.0,,,True
+CF-000227,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000228,0,1.0,1.0,,,True
+CF-000229,0,1.0,1.0,,,True
+CF-000230,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000231,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000232,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000233,0,1.0,1.0,,,True
+CF-000234,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000235,0,1.0,1.0,,,True
+CF-000236,0,1.0,1.0,,,True
+CF-000237,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000238,0,1.0,1.0,,,True
+CF-000239,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000240,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000241,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000242,0,1.0,1.0,,,True
+CF-000243,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000244,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000245,0,1.0,1.0,,,True
+CF-000246,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000247,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000248,0,1.0,1.0,,,True
+CF-000249,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000250,0,1.0,1.0,,,True
+CF-000251,0,1.0,1.0,,,True
+CF-000252,0,1.0,1.0,,,True
+CF-000253,0,1.0,1.0,,,True
+CF-000254,0,1.0,1.0,,,True
+CF-000255,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000256,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000257,0,1.0,1.0,,,True
+CF-000258,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000259,0,1.0,1.0,,,True
+CF-000260,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000261,0,1.0,1.0,,,True
+CF-000262,0,1.0,1.0,,,True
+CF-000263,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000264,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000265,0,1.0,1.0,,,True
+CF-000266,0,1.0,1.0,,,True
+CF-000267,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000268,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000269,0,1.0,1.0,,,True
+CF-000270,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000271,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000272,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000273,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000274,0,1.0,1.0,,,True
+CF-000275,0,1.0,1.0,,,True
+CF-000276,0,1.0,1.0,,,True
+CF-000277,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000278,0,1.0,1.0,,,True
+CF-000279,0,1.0,1.0,,,True
+CF-000280,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000281,0,1.0,1.0,,,True
+CF-000282,0,1.0,1.0,,,True
+CF-000283,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000284,0,1.0,1.0,,,True
+CF-000285,0,1.0,1.0,,,True
+CF-000286,0,1.0,1.0,,,True
+CF-000287,0,1.0,1.0,,,True
+CF-000288,0,1.0,1.0,,,True
+CF-000289,0,1.0,1.0,,,True
+CF-000290,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000291,0,1.0,1.0,,,True
+CF-000292,0,1.0,1.0,,,True
+CF-000293,0,1.0,1.0,,,True
+CF-000294,0,1.0,1.0,,,True
+CF-000295,0,1.0,1.0,,,True
+CF-000296,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000297,0,1.0,1.0,,,True
+CF-000298,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000299,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000300,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000301,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000302,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000303,0,1.0,1.0,,,True
+CF-000304,0,1.0,1.0,,,True
+CF-000305,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000306,0,1.0,1.0,,,True
+CF-000307,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000308,0,1.0,1.0,,,True
+CF-000309,0,1.0,1.0,,,True
+CF-000310,0,1.0,1.0,,,True
+CF-000311,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000312,0,1.0,1.0,,,True
+CF-000313,0,1.0,1.0,,,True
+CF-000314,0,1.0,1.0,,,True
+CF-000315,0,1.0,1.0,,,True
+CF-000316,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000317,0,1.0,1.0,,,True
+CF-000318,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000319,0,1.0,1.0,,,True
+CF-000320,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000321,0,1.0,1.0,,,True
+CF-000322,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000323,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000324,0,1.0,1.0,,,True
+CF-000325,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000326,0,1.0,1.0,,,True
+CF-000327,0,1.0,1.0,,,True
+CF-000328,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000329,0,1.0,1.0,,,True
+CF-000330,0,1.0,1.0,,,True
+CF-000331,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000332,0,1.0,1.0,,,True
+CF-000333,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000334,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000335,0,1.0,1.0,,,True
+CF-000336,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000337,0,1.0,1.0,,,True
+CF-000338,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000339,0,1.0,1.0,,,True
+CF-000340,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000341,0,1.0,1.0,,,True
+CF-000342,0,1.0,1.0,,,True
+CF-000343,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000344,0,1.0,1.0,,,True
+CF-000345,0,1.0,1.0,,,True
+CF-000346,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000347,0,1.0,1.0,,,True
+CF-000348,0,1.0,1.0,,,True
+CF-000349,0,1.0,1.0,,,True
+CF-000350,0,1.0,1.0,,,True
+CF-000351,0,1.0,1.0,,,True
+CF-000352,0,1.0,1.0,,,True
+CF-000353,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000354,0,1.0,1.0,,,True
+CF-000355,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000356,0,1.0,1.0,,,True
+CF-000357,0,1.0,1.0,,,True
+CF-000358,0,1.0,1.0,,,True
+CF-000359,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000360,0,1.0,1.0,,,True
+CF-000361,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000362,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000363,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000364,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000365,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000366,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000367,0,1.0,1.0,,,True
+CF-000368,0,1.0,1.0,,,True
+CF-000369,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000370,0,1.0,1.0,,,True
+CF-000371,0,1.0,1.0,,,True
+CF-000372,0,1.0,1.0,,,True
+CF-000373,0,1.0,1.0,,,True
+CF-000374,0,1.0,1.0,,,True
+CF-000375,0,1.0,1.0,,,True
+CF-000376,0,1.0,1.0,,,True
+CF-000377,0,1.0,1.0,,,True
+CF-000378,0,1.0,1.0,,,True
+CF-000379,0,1.0,1.0,,,True
+CF-000380,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000381,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000382,0,1.0,1.0,,,True
+CF-000383,0,1.0,1.0,,,True
+CF-000384,0,1.0,1.0,,,True
+CF-000385,0,1.0,1.0,,,True
+CF-000386,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000387,0,1.0,1.0,,,True
+CF-000388,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000389,0,1.0,1.0,,,True
+CF-000390,0,1.0,1.0,,,True
+CF-000391,0,1.0,1.0,,,True
+CF-000392,0,1.0,1.0,,,True
+CF-000393,0,1.0,1.0,,,True
+CF-000394,0,1.0,1.0,,,True
+CF-000395,0,1.0,1.0,,,True
+CF-000396,0,1.0,1.0,,,True
+CF-000397,0,1.0,1.0,,,True
+CF-000398,0,1.0,1.0,,,True
+CF-000399,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000400,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000401,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000402,0,1.0,1.0,,,True
+CF-000403,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000404,0,1.0,1.0,,,True
+CF-000405,0,1.0,1.0,,,True
+CF-000406,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000407,0,1.0,1.0,,,True
+CF-000408,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000409,0,1.0,1.0,,,True
+CF-000410,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000411,0,1.0,1.0,,,True
+CF-000412,0,1.0,1.0,,,True
+CF-000413,0,1.0,1.0,,,True
+CF-000414,0,1.0,1.0,,,True
+CF-000415,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000416,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000417,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000418,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000419,0,1.0,1.0,,,True
+CF-000420,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000421,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000422,0,1.0,1.0,,,True
+CF-000423,0,1.0,1.0,,,True
+CF-000424,0,1.0,1.0,,,True
+CF-000425,0,1.0,1.0,,,True
+CF-000426,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000427,0,1.0,1.0,,,True
+CF-000428,0,1.0,1.0,,,True
+CF-000429,0,1.0,1.0,,,True
+CF-000430,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000431,0,1.0,1.0,,,True
+CF-000432,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000433,0,1.0,1.0,,,True
+CF-000434,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000435,0,1.0,1.0,,,True
+CF-000436,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000437,0,1.0,1.0,,,True
+CF-000438,0,1.0,1.0,,,True
+CF-000439,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000440,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000441,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000442,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000443,0,1.0,1.0,,,True
+CF-000444,0,1.0,1.0,,,True
+CF-000445,0,1.0,1.0,,,True
+CF-000446,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000447,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000448,0,1.0,1.0,,,True
+CF-000449,0,1.0,1.0,,,True
+CF-000450,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000451,0,1.0,1.0,,,True
+CF-000452,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000453,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000454,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000455,0,1.0,1.0,,,True
+CF-000456,0,1.0,1.0,,,True
+CF-000457,0,1.0,1.0,,,True
+CF-000458,0,1.0,1.0,,,True
+CF-000459,0,1.0,1.0,,,True
+CF-000460,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000461,0,1.0,1.0,,,True
+CF-000462,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000463,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000464,0,1.0,1.0,,,True
+CF-000465,0,1.0,1.0,,,True
+CF-000466,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000467,0,1.0,1.0,,,True
+CF-000468,0,1.0,1.0,,,True
+CF-000469,0,1.0,1.0,,,True
+CF-000470,0,1.0,1.0,,,True
+CF-000471,0,1.0,1.0,,,True
+CF-000472,0,1.0,1.0,,,True
+CF-000473,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000474,0,1.0,1.0,,,True
+CF-000475,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000476,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000477,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000478,0,1.0,1.0,,,True
+CF-000479,0,1.0,1.0,,,True
+CF-000480,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000481,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000482,0,1.0,1.0,,,True
+CF-000483,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000484,0,1.0,1.0,,,True
+CF-000485,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000486,0,1.0,1.0,,,True
+CF-000487,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000488,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000489,0,1.0,1.0,,,True
+CF-000490,0,1.0,1.0,,,True
+CF-000491,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000492,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000493,0,1.0,1.0,,,True
+CF-000494,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000495,0,1.0,1.0,,,True
+CF-000496,0,1.0,1.0,,,True
+CF-000497,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000498,2,0.875,1.0,Triage | Paperwork Completion,,False
+CF-000499,0,1.0,1.0,,,True
+CF-000500,0,1.0,1.0,,,True

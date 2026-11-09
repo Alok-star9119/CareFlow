@@ -1,0 +1,11 @@
+{
+  "case_count": 500,
+  "event_count": 3900,
+  "activity_count": 8,
+  "transition_type_count": 9,
+  "mean_case_duration_minutes": 150.71,
+  "median_case_duration_minutes": 147.0,
+  "xray_to_triage_loopback_cases": 200,
+  "xray_to_triage_loopback_rate_percent": 40.0,
+  "data_source_note": "Metrics describe the supplied event log; synthetic data is illustrative only."
+}

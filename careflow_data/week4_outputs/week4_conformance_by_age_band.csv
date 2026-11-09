@@ -1,0 +1,5 @@
+Age_Band,Patient_Cases,Conforming_Cases,Deviation_Cases,Conformance_Rate_Percent,Deviation_Rate_Percent,Mean_Case_Duration_Minutes
+0–17,37,20,17,54.05,45.95,154.65
+18–39,194,111,83,57.22,42.78,151.6
+40–64,173,117,56,67.63,32.37,147.79
+65+,96,52,44,54.17,45.83,152.67

@@ -1,0 +1,3 @@
+Process_Variant,Case_Count,Share_Percent
+Registration → Triage → Physician Assessment → X-Ray → Physician Reassessment → Treatment → Discharge,300,60.0
+Registration → Triage → Physician Assessment → X-Ray → Triage → Paperwork Completion → Physician Reassessment → Treatment → Discharge,200,40.0

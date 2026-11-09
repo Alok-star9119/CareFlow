@@ -1,0 +1,26 @@
+{
+  "input_file": "careflow_data/clean_event_log.csv",
+  "case_count": 500,
+  "conforming_cases": 300,
+  "deviation_cases": 200,
+  "conformance_rate_percent": 60.0,
+  "baseline": [
+    "Registration",
+    "Triage",
+    "Physician Assessment",
+    "X-Ray",
+    "Physician Reassessment",
+    "Treatment",
+    "Discharge"
+  ],
+  "baseline_rule": "Exact activity-sequence match; demonstration rule only",
+  "synthetic_data_notice": "Do not interpret prototype results as real hospital performance evidence.",
+  "outputs": {
+    "case_results": "careflow_data/week4_outputs/week4_conformance_by_case.csv",
+    "overall_summary": "careflow_data/week4_outputs/week4_conformance_summary.csv",
+    "by_department": "careflow_data/week4_outputs/week4_conformance_by_department.csv",
+    "by_resource_id": "careflow_data/week4_outputs/week4_conformance_by_resource_id.csv",
+    "by_age_band": "careflow_data/week4_outputs/week4_conformance_by_age_band.csv",
+    "by_arrival_shift": "careflow_data/week4_outputs/week4_conformance_by_arrival_shift.csv"
+  }
+}

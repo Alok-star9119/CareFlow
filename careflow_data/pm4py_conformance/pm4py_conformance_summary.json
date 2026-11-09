@@ -1,0 +1,8 @@
+{
+  "cases": 500,
+  "baseline_conforming_cases": 300,
+  "baseline_conformance_percent": 60.0,
+  "mean_fitness_vs_baseline_alignment": 0.95,
+  "mean_fitness_vs_discovered_model_token_replay": 1.0,
+  "note": "Synthetic data; baseline is a prototype rule requiring clinical review."
+}

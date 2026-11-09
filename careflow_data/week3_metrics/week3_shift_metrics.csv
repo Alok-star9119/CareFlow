@@ -1,0 +1,4 @@
+Arrival_Shift,Case_Count,Mean_Duration_Minutes,Loopback_Cases,Loopback_Rate_Percent
+Afternoon (12:00–17:59),133,152.02,56,42.11
+Morning (06:00–11:59),109,149.94,39,35.78
+Night (18:00–05:59),258,150.36,105,40.7
